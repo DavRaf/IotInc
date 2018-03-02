@@ -1,0 +1,1 @@
+Click <a href="{{route('sendEmailDone',["email"=>$user->email, "verifyToken"=>$user->verifyToken])}}">here </a> to activate your IotInc account.
